@@ -1,0 +1,41 @@
+Accuracy: 0.9944
+ Macro Precision: 0.9952
+Macro Recall: 0.9944
+Macro F1: 0.9944
+
+                   precision    recall  f1-score   support
+
+            Break       1.00      1.00      1.00         6
+           Budget       1.00      1.00      1.00         6
+             Busy       1.00      1.00      1.00         6
+            Clean       1.00      1.00      1.00         6
+            Close       1.00      1.00      1.00         6
+             Come       1.00      1.00      1.00         6
+             Cook       1.00      1.00      1.00         6
+              Cry       1.00      1.00      1.00         6
+            Drink       1.00      1.00      1.00         6
+             Exam       1.00      1.00      1.00         6
+            Fedup       1.00      1.00      1.00         6
+            Fever       1.00      1.00      1.00         6
+             Give       1.00      1.00      1.00         6
+     Good Morning       1.00      1.00      1.00         6
+   Good afternoon       1.00      1.00      1.00         5
+            Hello       1.00      0.83      0.91         6
+              Hug       1.00      1.00      1.00         6
+           Injury       1.00      1.00      1.00         6
+        Interview       1.00      1.00      1.00         6
+             Jump       1.00      1.00      1.00         6
+              Man       1.00      1.00      1.00         6
+              Tea       0.86      1.00      0.92         6
+           Temple       1.00      1.00      1.00         6
+        Thank you       1.00      1.00      1.00         7
+            Uncle       1.00      1.00      1.00         6
+       Vegetables       1.00      1.00      1.00         6
+What is your Name       1.00      1.00      1.00         6
+             Wife       1.00      1.00      1.00         6
+           Writer       1.00      1.00      1.00         6
+            Wrong       1.00      1.00      1.00         6
+
+         accuracy                           0.99       180
+        macro avg       1.00      0.99      0.99       180
+     weighted avg       1.00      0.99      0.99       180
